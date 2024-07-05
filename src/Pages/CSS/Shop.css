@@ -1,0 +1,8 @@
+/* .shop{
+    display: flex;
+    flex-direction: column;
+} */
+
+.shop{
+    overflow: hidden;
+}
